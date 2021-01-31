@@ -3,12 +3,13 @@
 
 ## ÍNDICE
 
-*INTRODUCCIÓN
-*PRUEBAS
-*INTEGRACIÓN
-*CALIDAD
-
 INTRODUCCIÓN
+
+- PRUEBAS
+- INTEGRACIÓN
+- CALIDAD
+
+## INTRODUCCIÓN
 
 En esta Unidad aprenderemos a:
 
