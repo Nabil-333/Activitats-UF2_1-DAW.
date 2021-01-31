@@ -13,8 +13,8 @@ INTRODUCCIÓN
 
 En esta Unidad aprenderemos a:
 
-Identificar los diferentes tipos de pruebas.
-Definir casos de prueba.
++ Identificar los diferentes tipos de pruebas.
++ Definir casos de prueba.
 Efectuar pruebas unitarias de clases y funciones.
 Efectuar pruebas de integración, de sistema y de aceptación.
 Realizar medidas de calidad sobre el software desarrollado.
