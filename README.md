@@ -20,7 +20,10 @@ Efectuar pruebas de integración, de sistema y de aceptación.
 Realizar medidas de calidad sobre el software desarrollado.
 
 
+
+
 ## PRUEBAS
+
 
 ### FORMA DE LAS PRUEBAS
 
@@ -106,7 +109,10 @@ Javascript: Mocha
 
 
 
+
+
 ## INTEGRACIÓN
+
 
 ### FORMAS DE INTEGRACIÓN
 
@@ -134,7 +140,10 @@ Es posible realizar la cobertura tanto desde el IDE como desde un servicio web a
 
 
 
+
+
 ## CALIDAD
+
 
 ### CONTROL DE CALIDAD
 
