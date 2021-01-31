@@ -1,7 +1,7 @@
 
-# H1 ENTORNOS DE DESARROLLO
+# ENTORNOS DE DESARROLLO
 
-## H2 ÍNDICE
+## ÍNDICE
 
 INTRODUCCIÓN
 PRUEBAS
@@ -19,19 +19,19 @@ Efectuar pruebas de integración, de sistema y de aceptación.
 Realizar medidas de calidad sobre el software desarrollado.
 
 
-## H2 PRUEBAS
+## PRUEBAS
 
-## H2 FORMA DE LAS PRUEBAS
+## FORMA DE LAS PRUEBAS
 
 Pruebas dinámicas: Requieren la ejecución de la aplicación. Permiten medir el comportamiento de la aplicación desarrollada.
 Pruebas estáticas: Se realizan sin ejecutar el código de la aplicación. Se examina el código fuente.
 
-## H2 ESTRATEGIAS DE PRUEBA
+## ESTRATEGIAS DE PRUEBA
 
 Caja negra: Se estudia el sistema desde fuera. Son pruebas de funcionalidad.
 Caja blanca: Se examina el código fuente y su ejecución. Son pruebas estructurales.
 
-## H2 ESTRATEGIAS DE PRUEBA DE CAJA NEGRA
+## ESTRATEGIAS DE PRUEBA DE CAJA NEGRA
 
 Se estudia el sistema desde fuera.
 Se trabaja sobre la interfaz.
@@ -41,7 +41,7 @@ Principales técnicas:
 Particiones de equivalencia
 Valores límite
 
-## H2 ESTRATEGIAS DE PRUEBA DE CAJA BLANCA
+## ESTRATEGIAS DE PRUEBA DE CAJA BLANCA
 
 Se examina el código fuente y su ejecución.
 Se comprueban los flujos de ejecución dentro de cada unidad (función, clase, módulo, etc.)
@@ -51,12 +51,12 @@ Principales técnicas:
 Cobertura de código
 Prueba de bucles
 
-## H2 TIPOS DE PRUEBAS
+## TIPOS DE PRUEBAS
 
 Funcionales: Evaluan el cumplimiento de los requisitos.
 No funcionales: Evaluan aspectos adicionales como rendimiento, seguridad, ...
 
-## H2 PRUEBAS FUNCIONALES
+## PRUEBAS FUNCIONALES
 
 Pruebas unitarias (o de unidad)
 Pruebas de regresión
@@ -66,7 +66,7 @@ Pruebas del sistema
 Pruebas alfa y beta
 Pruebas de aceptación (validación por parte del cliente)
 
-## H2 PRUEBAS NO FUNCIONALES
+## PRUEBAS NO FUNCIONALES
 
 Pruebas de usabilidad
 Pruebas de rendimiento
@@ -75,27 +75,27 @@ Pruebas de seguridad
 Pruebas de compatibilidad
 Pruebas de portabilidad
 
-## H2 MECANISMOS DE PRUEBA
+## MECANISMOS DE PRUEBA
 
 Manual
 Mediante pruebas realizadas por personal de la empresa o externo.
 Automático
 Mediante software que ejecuta código de forma automatizada y compara los resultados obtenidos y los resultados esperados.
 
-## H2 SOPORTE DEL DEPURADOR
+## SOPORTE DEL DEPURADOR
 
 Puntos de ruptura
 Ejecución paso a paso
 Análisis de variables
 
-## H2 FRAMEWORKS PARA PRUEBAS
+## FRAMEWORKS PARA PRUEBAS
 
 Java: JUnit, TestNG
 C++: CppUnit, Google Test
 PHP: PHPUnit
 Javascript: Mocha
 
-## H2 JUNIT4 - ANOTACIONES II
+## JUNIT4 - ANOTACIONES II
 @BeforeClass: el método es invocado antes de iniciar todos los tests. Sólo puede haber un método con esta anotación.
 @AfterClass: el método es invocado después de finalizar todos los tests. Sólo puede haber un método con esta anotación.
 @Before: Se ejecuta antes de cada test.
@@ -105,16 +105,16 @@ Javascript: Mocha
 
 
 
-## H2 INTEGRACIÓN
+## INTEGRACIÓN
 
-### H3 FORMAS DE INTEGRACIÓN
+### FORMAS DE INTEGRACIÓN
 
 Integración Big bang
 Integración Descendente
 Integración Ascendente
 Integración Continua (CI)
 
-### H3 SERVIDORES DE INTEGRACIÓN CONTINUA
+### SERVIDORES DE INTEGRACIÓN CONTINUA
 
 CI : Integración continua
 CD : Entrega continua
@@ -123,7 +123,7 @@ Bamboo
 TravisCI
 CircleCI
 
-### H3 COBERTURA DEL CÓDIGO
+### COBERTURA DEL CÓDIGO
 
 Es una medida que indica el porcentaje de código que ha sido ejecutado durante las pruebas.
 Es aconsejable que sea lo más cercano a 100%.
@@ -133,21 +133,21 @@ Es posible realizar la cobertura tanto desde el IDE como desde un servicio web a
 
 
 
-## H2 CALIDAD
+## CALIDAD
 
-### H3 CONTROL DE CALIDAD
+### CONTROL DE CALIDAD
 
 Para lograr una
 Medición de la calidad de un producto
 necesitamos realizar
 Pruebas
 
-### H3 CALIDAD DEL PROCESO/PRODUCTO (QA/QC)
+### CALIDAD DEL PROCESO/PRODUCTO (QA/QC)
 
 QA es un conjunto de actividades para garantizar la calidad en los procesos mediante los cuales se desarrollan los productos.
 QC es un conjunto de actividades para garantizar la calidad de los productos. Las actividades se centran en identificar defectos en los productos reales producidos.
 
-### H3 FACTORES DE CALIDAD (I)
+### FACTORES DE CALIDAD (I)
 
 El modelo de calidad de McCall define 11 factores de calidad.
 Estos factores se agrupan en 3 ámbitos
@@ -155,7 +155,7 @@ Operación del producto
 Revisión del producto
 Transición del producto
 
-### H3 FACTORES DE CALIDAD (II)
+### FACTORES DE CALIDAD (II)
 
 OPERACIÓN DEL PRODUCTO
 Corrección
@@ -163,13 +163,13 @@ Fiabilidad
 Eficiencia
 Seguridad
 
-### H3 FACTORES DE CALIDAD (III)
+### FACTORES DE CALIDAD (III)
 
 REVISIÓN DEL PRODUCTO
 Mantenibilidad
 Flexibilidad
 
-### H3 FACTORES DE CALIDAD (IV)
+### FACTORES DE CALIDAD (IV)
 
 TRANSICIÓN DEL PRODUCTO
 Portabilidad
